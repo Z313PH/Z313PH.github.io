@@ -15,5 +15,5 @@ Static personal portfolio (HTML + CSS + vanilla JS, no build step) for GitHub Pa
 | Colors, fonts, spacing (light + dark tokens) | top of `assets/css/style.css` |
 | "Every public repository" list | `REPOS` array in `assets/js/main.js` |
 | Résumé download | replace `assets/Elie_Wamana_Resume.pdf` |
-| Profile photo | add `assets/profile.jpg`, uncomment the `<img>` in the hero avatar |
+| Profile photo | `assets/avatar.*` (card, 320px) and `assets/profile.*` (full 640px, used for link previews) |
 | Project screenshots | inside any `.project-visual`, replace the mock markup with `<img src="assets/shots/name.webp" alt="">` |
